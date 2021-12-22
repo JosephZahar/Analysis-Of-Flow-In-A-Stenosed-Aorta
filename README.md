@@ -22,3 +22,11 @@ The figure below displays the pressure drop profiles for all mesh types and orde
  </p>
  
 ![PD](https://user-images.githubusercontent.com/70657426/147081942-ad3e1a76-b90a-4f55-92e3-5e4afe91316b.png)
+
+<p align="justify">
+The two figures below show a comparison of the velocity and pressure profiles for two meshes. We can see the velocity profile contains no significant differences. This might be because differences in mesh quality are not as important for the velocity profile as compared to the level of mesh or order of simulation used. Pressure drop is a bit more sensitive to mesh quality, with the medium mesh showing a smoother pressure profile than the initial mesh due to the presence of more AV/truncation error in the medium mesh. 
+ </p>
+ 
+![V2](https://user-images.githubusercontent.com/70657426/147083585-5c7f5bb4-9136-451b-8fc1-c5f9d8e861d7.png)
+
+![PD2](https://user-images.githubusercontent.com/70657426/147083631-653e5943-4ee1-40a8-8e80-19e2e8e7d4d0.png)
